@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","sightglass","factory"],"mappings":";;;;;;;AAAAA,QACC,eACA,aACC,SAASC,EAAWC,GAClB,OAAO,IAAIA,EAAQD","file":"../main.js","sourcesContent":["define([\r\n\t\"./sightglass\",\r\n\t\"./factory\"\r\n],function(sightglass,factory){\r\n    return new factory(sightglass);\r\n});"]}
